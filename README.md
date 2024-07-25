@@ -17,11 +17,7 @@ Add `custom_popup_dialog` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  custom_popup_dialog:
-    git:
-      url: https://github.com/your-repo-link/custom_popup_dialog.git
-      ref: main
-
+  custom_popup_dialog: ^0.0.1
 ```
 
 ### Install the dependencies:
