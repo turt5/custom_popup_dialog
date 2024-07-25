@@ -1,7 +1,9 @@
 name: custom_popup_dialog
 description: "A Flutter package for customizable popup dialogs with optional Lottie animations and background effects. Easily create attractive dialogs with flexible styling options."
-version: 0.0.1
-homepage:
+version: 0.0.1 
+author: Kaium Al Limon <kalimon291@gmail.com>
+homepage: https://github.com/turt5/custom_popup_dialog
+repository: turt5/custom_popup_dialog
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
