@@ -216,4 +216,4 @@ This project is licensed under the MIT License. See the <a>LICENSE</a> file for 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 
 ## Author
-Kaium Al Limon - <a href='https://www.github.com/turt5'>Github</a>
+<b><a href='https://www.github.com/turt5'>Kaium Al Limon</a></b>
